@@ -4,6 +4,10 @@ An interactive web application for visualizing Cassini curves in both 2D and 3D,
 
 [Magyar verzió lejjebb található](#3d-cassini-görbe-vizualizáló)
 
+![Running image](Images/Screen01.jpg)
+
+Demo: https://monumental-manatee-aa4a2e.netlify.app/
+
 ## Features
 
 - Interactive 3D visualization of Cassini curves
